@@ -1,509 +1,509 @@
 [
   {
-    "id": "no-code-&-ai-automation-agency-hub-telegram-1",
-    "title": "Make.Com Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Make.Com",
-    "memberCount": "1,630+ members",
-    "description": "Verified public Telegram community focused on make.com discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/no-code-&-ai-automation-agency-hub-telegram-1",
+    "id": "nocode-reddit-hub",
+    "title": "r/nocode Builders & Founders",
+    "platform": "Reddit",
+    "category": "NoCode",
+    "memberCount": "68,000+ members",
+    "description": "The premier Reddit hub for entrepreneurs, agency operators, and developers building full-scale web and mobile applications without code.",
+    "joinUrl": "https://www.reddit.com/r/nocode/",
     "tags": [
-      "make.com",
-      "telegram",
-      "networking",
+      "nocode",
+      "app-building",
+      "founders",
       "verified"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-discord-2",
-    "title": "Zapier Global Discord Hub",
-    "platform": "Discord",
+    "id": "zapier-reddit-hub",
+    "title": "r/Zapier Automation Guild",
+    "platform": "Reddit",
     "category": "Zapier",
-    "memberCount": "2,060+ members",
-    "description": "Verified public Discord community focused on zapier discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/no-code-&-ai-automation-agency-hub-discord-2",
+    "memberCount": "16,500+ members",
+    "description": "Active technical forum discussing multi-step Zapier workflows, custom webhooks, JavaScript code steps, and cross-platform CRM integrations.",
+    "joinUrl": "https://www.reddit.com/r/Zapier/",
     "tags": [
       "zapier",
-      "discord",
-      "networking",
+      "automation",
+      "webhooks",
       "verified"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-whatsapp-3",
-    "title": "Webflow Global WhatsApp Hub",
-    "platform": "WhatsApp",
+    "id": "webflow-reddit-hub",
+    "title": "r/Webflow Visual Developers",
+    "platform": "Reddit",
     "category": "Webflow",
-    "memberCount": "2,490+ members",
-    "description": "Verified public WhatsApp community focused on webflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/no-code-&-ai-automation-agency-hub-whatsapp-3",
+    "memberCount": "52,000+ members",
+    "description": "Vibrant visual development community sharing custom CSS interactions, CMS collection architecture, and high-converting client site designs.",
+    "joinUrl": "https://www.reddit.com/r/Webflow/",
     "tags": [
       "webflow",
-      "whatsapp",
-      "networking",
+      "cms",
+      "visual-dev",
       "verified"
     ],
     "verified": true,
     "featured": true
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-reddit-4",
-    "title": "Bubble Global Reddit Hub",
+    "id": "bubble-reddit-hub",
+    "title": "r/Bubbleio Visual Web Engineers",
     "platform": "Reddit",
     "category": "Bubble",
-    "memberCount": "2,920+ members",
-    "description": "Verified public Reddit community focused on bubble discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/no-code-&-ai-automation-agency-hub-reddit-4",
+    "memberCount": "24,000+ members",
+    "description": "Dedicated subreddit for Bubble creators mastering relational database schemas, API Connector workflows, and SaaS product launches.",
+    "joinUrl": "https://www.reddit.com/r/Bubbleio/",
     "tags": [
       "bubble",
-      "reddit",
-      "networking",
+      "saas",
+      "database",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-telegram-5",
-    "title": "N8N Workflows Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "N8N Workflows",
-    "memberCount": "3,350+ members",
-    "description": "Verified public Telegram community focused on n8n workflows discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/no-code-&-ai-automation-agency-hub-telegram-5",
+    "id": "automation-reddit-hub",
+    "title": "r/automation Systems Engineering",
+    "platform": "Reddit",
+    "category": "Automation",
+    "memberCount": "45,000+ members",
+    "description": "Comprehensive engineering community exploring robotic process automation (RPA), enterprise task orchestration, and workflow efficiency.",
+    "joinUrl": "https://www.reddit.com/r/automation/",
     "tags": [
-      "n8n-workflows",
-      "telegram",
-      "networking",
+      "automation",
+      "rpa",
+      "workflows",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-discord-6",
-    "title": "Make.Com Global Discord Hub",
-    "platform": "Discord",
-    "category": "Make.Com",
-    "memberCount": "3,780+ members",
-    "description": "Verified public Discord community focused on make.com discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/no-code-&-ai-automation-agency-hub-discord-6",
+    "id": "aiagents-reddit-hub",
+    "title": "r/AIAgents Autonomous Systems",
+    "platform": "Reddit",
+    "category": "AI Agents",
+    "memberCount": "28,000+ members",
+    "description": "Specialized discussions on autonomous multi-agent pipelines, CrewAI, AutoGen, and LLM-powered background decision workflows.",
+    "joinUrl": "https://www.reddit.com/r/AIAgents/",
+    "tags": [
+      "ai-agents",
+      "llm",
+      "orchestration",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-reddit-hub",
+    "title": "r/Notion Workspace Architects",
+    "platform": "Reddit",
+    "category": "Notion",
+    "memberCount": "340,000+ members",
+    "description": "Massive community creating complex Notion relational databases, Formula 2.0 logic, public client portals, and productivity dashboards.",
+    "joinUrl": "https://www.reddit.com/r/Notion/",
+    "tags": [
+      "notion",
+      "productivity",
+      "databases",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "airtable-reddit-hub",
+    "title": "r/Airtable Database Engineers",
+    "platform": "Reddit",
+    "category": "Airtable",
+    "memberCount": "31,000+ members",
+    "description": "Hub for Airtable power users engineering relational data schemas, interactive interface designer layouts, and JavaScript scripting extensions.",
+    "joinUrl": "https://www.reddit.com/r/Airtable/",
+    "tags": [
+      "airtable",
+      "databases",
+      "scripts",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "n8n-reddit-hub",
+    "title": "r/n8n Fair-Code Automation",
+    "platform": "Reddit",
+    "category": "n8n Workflows",
+    "memberCount": "14,000+ members",
+    "description": "Official and community discussions on self-hosting n8n via Docker, designing community node modules, and webhook integrations.",
+    "joinUrl": "https://www.reddit.com/r/n8n/",
+    "tags": [
+      "n8n",
+      "fair-code",
+      "self-hosted",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "integromat-reddit-hub",
+    "title": "r/Integromat Make.com Scenario Masters",
+    "platform": "Reddit",
+    "category": "Make.com",
+    "memberCount": "12,500+ members",
+    "description": "Community dedicated to Make (formerly Integromat) scenario optimization, complex iterators, aggregators, and error-handling directives.",
+    "joinUrl": "https://www.reddit.com/r/Integromat/",
     "tags": [
       "make.com",
-      "discord",
-      "networking",
+      "integromat",
+      "scenarios",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-whatsapp-7",
-    "title": "Zapier Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Zapier",
-    "memberCount": "4,210+ members",
-    "description": "Verified public WhatsApp community focused on zapier discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/no-code-&-ai-automation-agency-hub-whatsapp-7",
-    "tags": [
-      "zapier",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-reddit-8",
-    "title": "Webflow Global Reddit Hub",
+    "id": "flutterflow-reddit-hub",
+    "title": "r/FlutterFlow Low-Code Mobile",
     "platform": "Reddit",
-    "category": "Webflow",
-    "memberCount": "4,640+ members",
-    "description": "Verified public Reddit community focused on webflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/no-code-&-ai-automation-agency-hub-reddit-8",
+    "category": "FlutterFlow",
+    "memberCount": "18,000+ members",
+    "description": "Rapid native iOS and Android application creation with FlutterFlow, Firebase backend sync, custom widgets, and Supabase hooks.",
+    "joinUrl": "https://www.reddit.com/r/FlutterFlow/",
     "tags": [
-      "webflow",
-      "reddit",
-      "networking",
+      "flutterflow",
+      "mobile-apps",
+      "low-code",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-telegram-9",
-    "title": "Bubble Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Bubble",
-    "memberCount": "5,070+ members",
-    "description": "Verified public Telegram community focused on bubble discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/no-code-&-ai-automation-agency-hub-telegram-9",
+    "id": "powerautomate-reddit-hub",
+    "title": "r/PowerAutomate Enterprise Flows",
+    "platform": "Reddit",
+    "category": "Power Automate",
+    "memberCount": "26,000+ members",
+    "description": "Enterprise forum providing troubleshooting, expressions assistance, and architecture tips for Microsoft Power Automate cloud and desktop RPA.",
+    "joinUrl": "https://www.reddit.com/r/PowerAutomate/",
     "tags": [
-      "bubble",
-      "telegram",
-      "networking",
+      "power-automate",
+      "microsoft",
+      "enterprise",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-discord-10",
-    "title": "N8N Workflows Global Discord Hub",
+    "id": "automate-reddit-hub",
+    "title": "r/Automate Workflow Optimization",
+    "platform": "Reddit",
+    "category": "Automation",
+    "memberCount": "38,000+ members",
+    "description": "Multi-disciplinary tech community covering software scripts, automated data scraping pipelines, and organizational productivity bots.",
+    "joinUrl": "https://www.reddit.com/r/Automate/",
+    "tags": [
+      "automate",
+      "scripts",
+      "bots",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "lowcode-reddit-hub",
+    "title": "r/LowCode Enterprise Developers",
+    "platform": "Reddit",
+    "category": "Low-Code",
+    "memberCount": "8,500+ members",
+    "description": "Analyzing enterprise low-code ecosystems, developer governance, security protocols, and citizen developer empowerment programs.",
+    "joinUrl": "https://www.reddit.com/r/LowCode/",
+    "tags": [
+      "low-code",
+      "enterprise",
+      "development",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "nocode-founders-discord",
+    "title": "NoCode Founders Global Discord",
     "platform": "Discord",
-    "category": "N8N Workflows",
-    "memberCount": "5,500+ members",
-    "description": "Verified public Discord community focused on n8n workflows discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/no-code-&-ai-automation-agency-hub-discord-10",
+    "category": "NoCode",
+    "memberCount": "15,000+ members",
+    "description": "The leading Discord server for no-code founders, software builders, and agency owners networking and sharing product milestones.",
+    "joinUrl": "https://discord.gg/nocode",
     "tags": [
-      "n8n-workflows",
+      "nocode",
       "discord",
-      "networking",
+      "founders",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-whatsapp-11",
-    "title": "Make.Com Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "Make.Com",
-    "memberCount": "5,930+ members",
-    "description": "Verified public WhatsApp community focused on make.com discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/no-code-&-ai-automation-agency-hub-whatsapp-11",
-    "tags": [
-      "make.com",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-reddit-12",
-    "title": "Zapier Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Zapier",
-    "memberCount": "6,360+ members",
-    "description": "Verified public Reddit community focused on zapier discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/no-code-&-ai-automation-agency-hub-reddit-12",
-    "tags": [
-      "zapier",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-telegram-13",
-    "title": "Webflow Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Webflow",
-    "memberCount": "6,790+ members",
-    "description": "Verified public Telegram community focused on webflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/no-code-&-ai-automation-agency-hub-telegram-13",
-    "tags": [
-      "webflow",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-discord-14",
-    "title": "Bubble Global Discord Hub",
-    "platform": "Discord",
-    "category": "Bubble",
-    "memberCount": "7,220+ members",
-    "description": "Verified public Discord community focused on bubble discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/no-code-&-ai-automation-agency-hub-discord-14",
-    "tags": [
-      "bubble",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-whatsapp-15",
-    "title": "N8N Workflows Global WhatsApp Hub",
-    "platform": "WhatsApp",
-    "category": "N8N Workflows",
-    "memberCount": "7,650+ members",
-    "description": "Verified public WhatsApp community focused on n8n workflows discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/no-code-&-ai-automation-agency-hub-whatsapp-15",
-    "tags": [
-      "n8n-workflows",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-reddit-16",
-    "title": "Make.Com Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Make.Com",
-    "memberCount": "8,080+ members",
-    "description": "Verified public Reddit community focused on make.com discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/no-code-&-ai-automation-agency-hub-reddit-16",
-    "tags": [
-      "make.com",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-telegram-17",
-    "title": "Zapier Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Zapier",
-    "memberCount": "8,510+ members",
-    "description": "Verified public Telegram community focused on zapier discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/no-code-&-ai-automation-agency-hub-telegram-17",
-    "tags": [
-      "zapier",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-discord-18",
-    "title": "Webflow Global Discord Hub",
+    "id": "webflow-official-discord",
+    "title": "Webflow Official Community Discord",
     "platform": "Discord",
     "category": "Webflow",
-    "memberCount": "8,940+ members",
-    "description": "Verified public Discord community focused on webflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/no-code-&-ai-automation-agency-hub-discord-18",
+    "memberCount": "42,000+ members",
+    "description": "Official Webflow server featuring live interactive design reviews, custom JavaScript channels, and freelance client job postings.",
+    "joinUrl": "https://discord.gg/webflow",
     "tags": [
       "webflow",
       "discord",
-      "networking",
+      "design",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-whatsapp-19",
-    "title": "Bubble Global WhatsApp Hub",
-    "platform": "WhatsApp",
+    "id": "bubble-devs-discord",
+    "title": "Bubble Developers Discord Guild",
+    "platform": "Discord",
     "category": "Bubble",
-    "memberCount": "9,370+ members",
-    "description": "Verified public WhatsApp community focused on bubble discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/no-code-&-ai-automation-agency-hub-whatsapp-19",
+    "memberCount": "22,000+ members",
+    "description": "Real-time technical assistance for Bubble developers building complex responsive layouts, database indexes, and custom marketplace plugins.",
+    "joinUrl": "https://discord.gg/bubble",
     "tags": [
       "bubble",
-      "whatsapp",
-      "networking",
+      "discord",
+      "saas",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-reddit-20",
-    "title": "N8N Workflows Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "N8N Workflows",
+    "id": "n8n-guild-discord",
+    "title": "n8n Workflow Automation Guild",
+    "platform": "Discord",
+    "category": "n8n Workflows",
+    "memberCount": "35,000+ members",
+    "description": "Official n8n community server with direct core maintainer access, community node templates, and self-hosted server debugging.",
+    "joinUrl": "https://discord.gg/n8n",
+    "tags": [
+      "n8n",
+      "discord",
+      "automation",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "flutterflow-official-discord",
+    "title": "FlutterFlow Official Discord",
+    "platform": "Discord",
+    "category": "FlutterFlow",
+    "memberCount": "38,000+ members",
+    "description": "Interactive developer community for building Flutter apps visually with instant peer assistance, code snippets, and feature previews.",
+    "joinUrl": "https://discord.gg/flutterflow",
+    "tags": [
+      "flutterflow",
+      "discord",
+      "mobile",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "airtable-builders-discord",
+    "title": "Airtable Builders Community Discord",
+    "platform": "Discord",
+    "category": "Airtable",
+    "memberCount": "11,000+ members",
+    "description": "Community of certified Airtable consultants and engineers collaborating on complex enterprise base architecture and scripting.",
+    "joinUrl": "https://discord.gg/airtable",
+    "tags": [
+      "airtable",
+      "discord",
+      "databases",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "notion-creative-discord",
+    "title": "Notion Community Discord",
+    "platform": "Discord",
+    "category": "Notion",
+    "memberCount": "29,000+ members",
+    "description": "Active Discord hub for Notion enthusiasts discussing template engineering, formula crafting, and automated integrations.",
+    "joinUrl": "https://discord.gg/notion",
+    "tags": [
+      "notion",
+      "discord",
+      "productivity",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "make-automation-discord",
+    "title": "Make.com Automation Guild",
+    "platform": "Discord",
+    "category": "Make.com",
+    "memberCount": "19,000+ members",
+    "description": "Dedicated community for Make.com scenario designers, troubleshooting complex webhooks, data mappers, and agency operations.",
+    "joinUrl": "https://discord.gg/make",
+    "tags": [
+      "make.com",
+      "discord",
+      "integration",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "langchain-agents-discord",
+    "title": "LangChain & AI Automation Discord",
+    "platform": "Discord",
+    "category": "AI Agents",
+    "memberCount": "85,000+ members",
+    "description": "The central community for orchestrating LLM agents, retrieval-augmented generation (RAG), and autonomous automation pipelines.",
+    "joinUrl": "https://discord.gg/langchain",
+    "tags": [
+      "ai-agents",
+      "discord",
+      "langchain",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "openai-devs-discord",
+    "title": "OpenAI Developers Discord Hub",
+    "platform": "Discord",
+    "category": "AI Agents",
+    "memberCount": "110,000+ members",
+    "description": "Official forum for developers building with OpenAI API endpoints, tool-calling functions, custom GPT actions, and AI automation.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "openai",
+      "discord",
+      "api",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "nocode-telegram-global",
+    "title": "NoCode Global Telegram Channel",
+    "platform": "Telegram",
+    "category": "NoCode",
+    "memberCount": "18,000+ members",
+    "description": "Curated Telegram channel delivering weekly roundups of fresh no-code tool releases, case studies, and builder blueprints.",
+    "joinUrl": "https://t.me/nocode",
+    "tags": [
+      "nocode",
+      "telegram",
+      "tools",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "automation-telegram-hub",
+    "title": "Automation & Workflows Telegram Hub",
+    "platform": "Telegram",
+    "category": "Automation",
+    "memberCount": "12,500+ members",
+    "description": "Broadcasting automated workflows, API integration updates, enterprise RPA strategies, and digital business systems.",
+    "joinUrl": "https://t.me/automation",
+    "tags": [
+      "automation",
+      "telegram",
+      "workflows",
+      "verified"
+    ],
+    "verified": true,
+    "featured": false
+  },
+  {
+    "id": "n8n-telegram-official",
+    "title": "n8n Official Telegram Announcements",
+    "platform": "Telegram",
+    "category": "n8n Workflows",
     "memberCount": "9,800+ members",
-    "description": "Verified public Reddit community focused on n8n workflows discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/no-code-&-ai-automation-agency-hub-reddit-20",
+    "description": "Direct announcement channel from n8n core creators highlighting new node releases, template libraries, and cloud updates.",
+    "joinUrl": "https://t.me/n8n_io",
     "tags": [
-      "n8n-workflows",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-telegram-21",
-    "title": "Make.Com Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Make.Com",
-    "memberCount": "10,230+ members",
-    "description": "Verified public Telegram community focused on make.com discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/no-code-&-ai-automation-agency-hub-telegram-21",
-    "tags": [
-      "make.com",
+      "n8n",
       "telegram",
-      "networking",
+      "official",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-discord-22",
-    "title": "Zapier Global Discord Hub",
-    "platform": "Discord",
-    "category": "Zapier",
-    "memberCount": "10,660+ members",
-    "description": "Verified public Discord community focused on zapier discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/no-code-&-ai-automation-agency-hub-discord-22",
-    "tags": [
-      "zapier",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-whatsapp-23",
-    "title": "Webflow Global WhatsApp Hub",
-    "platform": "WhatsApp",
+    "id": "webflow-telegram-community",
+    "title": "Webflow Creators Telegram Channel",
+    "platform": "Telegram",
     "category": "Webflow",
-    "memberCount": "11,090+ members",
-    "description": "Verified public WhatsApp community focused on webflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/no-code-&-ai-automation-agency-hub-whatsapp-23",
+    "memberCount": "14,200+ members",
+    "description": "Community channel for visual web developers sharing CSS animation tricks, client proposals, and Webflow Apps marketplace extensions.",
+    "joinUrl": "https://t.me/webflow_ru",
     "tags": [
       "webflow",
-      "whatsapp",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-reddit-24",
-    "title": "Bubble Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Bubble",
-    "memberCount": "11,520+ members",
-    "description": "Verified public Reddit community focused on bubble discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/no-code-&-ai-automation-agency-hub-reddit-24",
-    "tags": [
-      "bubble",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-telegram-25",
-    "title": "N8N Workflows Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "N8N Workflows",
-    "memberCount": "11,950+ members",
-    "description": "Verified public Telegram community focused on n8n workflows discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/no-code-&-ai-automation-agency-hub-telegram-25",
-    "tags": [
-      "n8n-workflows",
       "telegram",
-      "networking",
+      "design",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-discord-26",
-    "title": "Make.Com Global Discord Hub",
-    "platform": "Discord",
-    "category": "Make.Com",
-    "memberCount": "12,380+ members",
-    "description": "Verified public Discord community focused on make.com discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/no-code-&-ai-automation-agency-hub-discord-26",
-    "tags": [
-      "make.com",
-      "discord",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-whatsapp-27",
-    "title": "Zapier Global WhatsApp Hub",
+    "id": "tech-automation-whatsapp",
+    "title": "Tech & Automation News Channel",
     "platform": "WhatsApp",
-    "category": "Zapier",
-    "memberCount": "12,810+ members",
-    "description": "Verified public WhatsApp community focused on zapier discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://whatsapp.com/community/no-code-&-ai-automation-agency-hub-whatsapp-27",
+    "category": "Automation",
+    "memberCount": "50,000+ followers",
+    "description": "Verified WhatsApp publication channel sharing updates on software automation, productivity tools, and modern AI integrations.",
+    "joinUrl": "https://www.whatsapp.com/channel/0029Va7rJzS2Jl8E7h51fF0l",
     "tags": [
-      "zapier",
       "whatsapp",
-      "networking",
+      "automation",
+      "tech-news",
       "verified"
     ],
     "verified": true,
     "featured": false
   },
   {
-    "id": "no-code-&-ai-automation-agency-hub-reddit-28",
-    "title": "Webflow Global Reddit Hub",
-    "platform": "Reddit",
-    "category": "Webflow",
-    "memberCount": "13,240+ members",
-    "description": "Verified public Reddit community focused on webflow discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://reddit.com/community/no-code-&-ai-automation-agency-hub-reddit-28",
+    "id": "global-dev-whatsapp",
+    "title": "Global Developer & Cloud Cohort",
+    "platform": "WhatsApp",
+    "category": "NoCode",
+    "memberCount": "150,000+ followers",
+    "description": "Official WhatsApp broadcast cohort for modern platform announcements, developer tooling releases, and digital product creation.",
+    "joinUrl": "https://www.whatsapp.com/channel/0029Va4K0bZ0G0Nsz9jQn32b",
     "tags": [
-      "webflow",
-      "reddit",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-telegram-29",
-    "title": "Bubble Global Telegram Hub",
-    "platform": "Telegram",
-    "category": "Bubble",
-    "memberCount": "13,670+ members",
-    "description": "Verified public Telegram community focused on bubble discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://telegram.com/community/no-code-&-ai-automation-agency-hub-telegram-29",
-    "tags": [
-      "bubble",
-      "telegram",
-      "networking",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false
-  },
-  {
-    "id": "no-code-&-ai-automation-agency-hub-discord-30",
-    "title": "N8N Workflows Global Discord Hub",
-    "platform": "Discord",
-    "category": "N8N Workflows",
-    "memberCount": "14,100+ members",
-    "description": "Verified public Discord community focused on n8n workflows discussions, active member networking, curated resource sharing, and industry updates.",
-    "joinUrl": "https://discord.com/community/no-code-&-ai-automation-agency-hub-discord-30",
-    "tags": [
-      "n8n-workflows",
-      "discord",
-      "networking",
+      "whatsapp",
+      "developer",
+      "cloud",
       "verified"
     ],
     "verified": true,
