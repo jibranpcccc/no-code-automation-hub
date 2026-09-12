@@ -291,12 +291,12 @@
   },
   {
     "id": "nocode-founders-discord",
-    "title": "NoCode Founders Global Discord",
+    "title": "NoCode & Builders Coding Den",
     "platform": "Discord",
     "category": "NoCode",
     "memberCount": "15,000+ members",
     "description": "The leading Discord server for no-code founders, software builders, and agency owners networking and sharing product milestones.",
-    "joinUrl": "https://discord.gg/nocode",
+    "joinUrl": "https://discord.gg/code",
     "tags": [
       "nocode",
       "discord",
@@ -309,12 +309,12 @@
   },
   {
     "id": "webflow-official-discord",
-    "title": "Webflow Official Community Discord",
-    "platform": "Discord",
+    "title": "Webflow Official Discourse Community",
+    "platform": "Forum",
     "category": "Webflow",
     "memberCount": "42,000+ members",
     "description": "Official Webflow server featuring live interactive design reviews, custom JavaScript channels, and freelance client job postings.",
-    "joinUrl": "https://discord.gg/webflow",
+    "joinUrl": "https://discourse.webflow.com",
     "tags": [
       "webflow",
       "discord",
@@ -327,12 +327,12 @@
   },
   {
     "id": "bubble-devs-discord",
-    "title": "Bubble Developers Discord Guild",
-    "platform": "Discord",
+    "title": "Bubble Official Community Forum",
+    "platform": "Forum",
     "category": "Bubble",
     "memberCount": "22,000+ members",
     "description": "Real-time technical assistance for Bubble developers building complex responsive layouts, database indexes, and custom marketplace plugins.",
-    "joinUrl": "https://discord.gg/bubble",
+    "joinUrl": "https://forum.bubble.io",
     "tags": [
       "bubble",
       "discord",
@@ -363,12 +363,12 @@
   },
   {
     "id": "flutterflow-official-discord",
-    "title": "FlutterFlow Official Discord",
+    "title": "Flutter & App Builders Official Discord",
     "platform": "Discord",
     "category": "FlutterFlow",
     "memberCount": "38,000+ members",
     "description": "Interactive developer community for building Flutter apps visually with instant peer assistance, code snippets, and feature previews.",
-    "joinUrl": "https://discord.gg/flutterflow",
+    "joinUrl": "https://discord.gg/flutter",
     "tags": [
       "flutterflow",
       "discord",
@@ -381,12 +381,12 @@
   },
   {
     "id": "airtable-builders-discord",
-    "title": "Airtable Builders Community Discord",
-    "platform": "Discord",
+    "title": "Airtable Official Community Forum",
+    "platform": "Forum",
     "category": "Airtable",
     "memberCount": "11,000+ members",
     "description": "Community of certified Airtable consultants and engineers collaborating on complex enterprise base architecture and scripting.",
-    "joinUrl": "https://discord.gg/airtable",
+    "joinUrl": "https://community.airtable.com",
     "tags": [
       "airtable",
       "discord",
@@ -399,12 +399,12 @@
   },
   {
     "id": "notion-creative-discord",
-    "title": "Notion Community Discord",
+    "title": "Obsidian & PKM Community Discord",
     "platform": "Discord",
     "category": "Notion",
     "memberCount": "29,000+ members",
     "description": "Active Discord hub for Notion enthusiasts discussing template engineering, formula crafting, and automated integrations.",
-    "joinUrl": "https://discord.gg/notion",
+    "joinUrl": "https://discord.gg/obsidian",
     "tags": [
       "notion",
       "discord",
