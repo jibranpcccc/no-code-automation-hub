@@ -1,16 +1,16 @@
 [
   {
     "id": "no-code-automation-hub-reddit-20260915-1",
-    "title": "r/webdev Modern Web Engineering",
+    "title": "r/nocode Visual App Builders",
     "platform": "Reddit",
-    "category": "Web Development",
-    "memberCount": "2,400,000+ members",
-    "description": "API best practices, REST and GraphQL endpoints, webhook authentication, and CORS headers.",
-    "joinUrl": "https://www.reddit.com/r/webdev/",
+    "category": "No-Code Platforms",
+    "memberCount": "68,000+ members",
+    "description": "Discussions on building full web applications, mobile tools, and internal dashboards using Bubble, Webflow, FlutterFlow, and Make.",
+    "joinUrl": "https://www.reddit.com/r/nocode/",
     "tags": [
-      "webdev",
-      "apis",
-      "frontend",
+      "nocode",
+      "bubble",
+      "webflow",
       "reddit"
     ],
     "verified": true,
@@ -130,24 +130,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "id": "nocode-reddit-hub",
-    "title": "r/nocode Builders & Founders",
-    "platform": "Reddit",
-    "category": "NoCode",
-    "memberCount": "68,000+ members",
-    "description": "The premier Reddit hub for entrepreneurs, agency operators, and developers building full-scale web and mobile applications without code.",
-    "joinUrl": "https://www.reddit.com/r/nocode/",
-    "tags": [
-      "nocode",
-      "app-building",
-      "founders",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "zapier-reddit-hub",
