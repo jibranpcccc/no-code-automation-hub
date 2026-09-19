@@ -1,5 +1,23 @@
 [
   {
+    "id": "no-code-automation-hub-discord-20260919-1",
+    "title": "Bubble Official Community Discord",
+    "platform": "Discord",
+    "category": "No-Code Development",
+    "memberCount": "42,000+ members",
+    "description": "Active Discord for Bubble builders debugging responsive layouts, database constraints, and API connector plugins.",
+    "joinUrl": "https://discord.gg/bubble",
+    "tags": [
+      "bubble",
+      "nocode",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-19"
+  },
+  {
     "id": "no-code-automation-hub-reddit-20260918-1",
     "title": "r/webdev Modern Web Engineering",
     "platform": "Reddit",
@@ -15,7 +33,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
   },
   {
