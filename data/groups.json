@@ -1,5 +1,23 @@
 [
   {
+    "id": "no-code-automation-hub-discord-20260920-1",
+    "title": "Webflow Designers Discord",
+    "platform": "Discord",
+    "category": "Visual Development",
+    "memberCount": "68,000+ members",
+    "description": "Webflow agency owners, CSS wizards, and client-first framework developers sharing cloneables.",
+    "joinUrl": "https://discord.gg/webflow",
+    "tags": [
+      "webflow",
+      "design",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-20"
+  },
+  {
     "id": "no-code-automation-hub-discord-20260919-1",
     "title": "Bubble Official Community Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-19"
   },
   {
