@@ -1,5 +1,23 @@
 [
   {
+    "id": "no-code-automation-hub-discord-20260922-1",
+    "title": "Airtable Builders Discord",
+    "platform": "Discord",
+    "category": "Database Engineering",
+    "memberCount": "29,000+ members",
+    "description": "Relational data structures, scripting blocks, webhook automation, and enterprise permissions.",
+    "joinUrl": "https://discord.gg/airtable",
+    "tags": [
+      "airtable",
+      "database",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-22"
+  },
+  {
     "id": "no-code-automation-hub-discord-20260921-1",
     "title": "NoCode Developers Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-21"
   },
   {
