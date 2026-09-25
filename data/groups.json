@@ -1,5 +1,23 @@
 [
   {
+    "id": "no-code-automation-hub-telegram-20260925-1",
+    "title": "Webflow Creators Telegram",
+    "platform": "Telegram",
+    "category": "Visual CMS",
+    "memberCount": "22,000+ members",
+    "description": "Daily cloneable showcases, animation presets, and client onboarding agreements for Webflow devs.",
+    "joinUrl": "https://t.me/webflow",
+    "tags": [
+      "webflow",
+      "design",
+      "telegram"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-25"
+  },
+  {
     "id": "no-code-automation-hub-discord-20260924-1",
     "title": "Startups & Micro-SaaS Discord",
     "platform": "Discord",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-24"
   },
   {
