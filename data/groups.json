@@ -1,5 +1,23 @@
 [
   {
+    "id": "no-code-automation-hub-forum-20260927-1",
+    "title": "Zapier Official Community",
+    "platform": "Forum",
+    "category": "Integration Architecture",
+    "memberCount": "95,000+ members",
+    "description": "Troubleshooting webhook triggers, custom Python actions, and API rate limits on Zapier.",
+    "joinUrl": "https://community.zapier.com",
+    "tags": [
+      "zapier",
+      "integrations",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-27"
+  },
+  {
     "id": "no-code-automation-hub-telegram-20260925-1",
     "title": "Webflow Creators Telegram",
     "platform": "Telegram",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-25"
   },
   {
