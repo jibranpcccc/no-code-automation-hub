@@ -1,5 +1,23 @@
 [
   {
+    "id": "no-code-automation-hub-forum-20260930-1",
+    "title": "Product Hunt Discussion Hub",
+    "platform": "Forum",
+    "category": "Product Discovery",
+    "memberCount": "650,000+ members",
+    "description": "Global discussion board where builders launch new web apps, tools, and SaaS products daily.",
+    "joinUrl": "https://www.producthunt.com/discussions",
+    "tags": [
+      "producthunt",
+      "launches",
+      "forum"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-30"
+  },
+  {
     "id": "no-code-automation-hub-forum-20260929-1",
     "title": "Make Official Community Forum",
     "platform": "Forum",
@@ -14,7 +32,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-29"
   },
   {
