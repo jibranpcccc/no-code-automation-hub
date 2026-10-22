@@ -4,10 +4,17 @@
     <title>No-Code &amp; AI Automation Agency Hub</title>
     <link>https://no-code-automation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:00:29 GMT</lastBuildDate>
     <atom:link href="https://no-code-automation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                    <item>
+                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
+      <link>https://www.reddit.com/r/golang/</link>
+      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-reddit-20261022-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:29 GMT</pubDate>
+      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Web Developers Network (Telegram)</title>
       <link>https://t.me/webdev_hub</link>
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-telegram-20261021-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-discord-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:00:24 GMT</pubDate>
       <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Relational data structures, scripting blocks, webhook automation, and enterprise permissions.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: NoCode Developers Discord (Discord)</title>
-      <link>https://discord.gg/nocode</link>
-      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-discord-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:00:25 GMT</pubDate>
-      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Multi-tool no-code discussions comparing FlutterFlow, Bubble, WeWeb, Supabase, and Xano.</description>
     </item>
   </channel>
 </rss>
