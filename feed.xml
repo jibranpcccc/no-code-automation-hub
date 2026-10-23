@@ -4,10 +4,17 @@
     <title>No-Code &amp; AI Automation Agency Hub</title>
     <link>https://no-code-automation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 06:00:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:00:30 GMT</lastBuildDate>
     <atom:link href="https://no-code-automation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                        <item>
+                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: Go Language Official Discord (Discord)</title>
+      <link>https://discord.gg/golang</link>
+      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-discord-20261023-1-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 06:00:30 GMT</pubDate>
+      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Real-time Go developers server offering technical support, library showcase, and distributed systems discussions.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/golang Backend Hub (Reddit)</title>
       <link>https://www.reddit.com/r/golang/</link>
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-reddit-20261022-1-2026-10-22</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-discord-20260923-1-2026-09-23</guid>
       <pubDate>Wed, 23 Sep 2026 06:00:25 GMT</pubDate>
       <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Discussion on Zapier tables, custom code actions (Python/JS), and webhook integrations.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Airtable Builders Discord (Discord)</title>
-      <link>https://discord.gg/airtable</link>
-      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-discord-20260922-1-2026-09-22</guid>
-      <pubDate>Tue, 22 Sep 2026 06:00:24 GMT</pubDate>
-      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Relational data structures, scripting blocks, webhook automation, and enterprise permissions.</description>
     </item>
   </channel>
 </rss>
