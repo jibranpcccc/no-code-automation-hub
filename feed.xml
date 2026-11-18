@@ -4,10 +4,17 @@
     <title>No-Code &amp; AI Automation Agency Hub</title>
     <link>https://no-code-automation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 06:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:00:28 GMT</lastBuildDate>
     <atom:link href="https://no-code-automation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
+      <link>https://dev.to/t/webdev</link>
+      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-forum-20261105-1-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:28 GMT</pubDate>
+      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-forum-20261105-1-2026-11-17</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-reddit-20261019-1-2026-10-19</guid>
       <pubDate>Mon, 19 Oct 2026 06:00:30 GMT</pubDate>
       <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Rust Language News &amp; Updates (Telegram)</title>
-      <link>https://t.me/rust_lang_news</link>
-      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-telegram-20261018-1-2026-10-18</guid>
-      <pubDate>Sun, 18 Oct 2026 06:00:29 GMT</pubDate>
-      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Real-time updates, releases, and deep-dive technical articles from the Rust systems ecosystem.</description>
     </item>
   </channel>
 </rss>
