@@ -4,10 +4,17 @@
     <title>No-Code &amp; AI Automation Agency Hub</title>
     <link>https://no-code-automation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 06:00:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:21:20 GMT</lastBuildDate>
     <atom:link href="https://no-code-automation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/Zapier Automation Guild (Reddit)</title>
+      <link>https://www.reddit.com/r/Zapier/</link>
+      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#zapier-reddit-hub-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:21:20 GMT</pubDate>
+      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Active technical forum discussing multi-step Zapier workflows, custom webhooks, JavaScript code steps, and cross-platform CRM integrations.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
       <link>https://dev.to/t/webdev</link>
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-forum-20261105-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-discord-20261020-1-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 06:00:32 GMT</pubDate>
       <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: The largest community of React, React Native, and full-stack JavaScript developers on Discord.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/javascript Global Hub (Reddit)</title>
-      <link>https://www.reddit.com/r/javascript/</link>
-      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-reddit-20261019-1-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 06:00:30 GMT</pubDate>
-      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Discussions, releases, frameworks, and architecture patterns from across the JavaScript and ECMAScript ecosystem.</description>
     </item>
   </channel>
 </rss>
