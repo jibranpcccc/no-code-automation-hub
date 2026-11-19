@@ -1,5 +1,24 @@
 [
   {
+    "id": "webflow-reddit-hub",
+    "title": "r/Webflow Visual Developers",
+    "platform": "Reddit",
+    "category": "Webflow",
+    "memberCount": "52,000+ members",
+    "description": "Vibrant visual development community sharing custom CSS interactions, CMS collection architecture, and high-converting client site designs.",
+    "joinUrl": "https://www.reddit.com/r/Webflow/",
+    "tags": [
+      "webflow",
+      "cms",
+      "visual-dev",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-19"
+  },
+  {
     "id": "zapier-reddit-hub",
     "title": "r/Zapier Automation Guild",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-18"
   },
   {
@@ -918,24 +937,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "id": "webflow-reddit-hub",
-    "title": "r/Webflow Visual Developers",
-    "platform": "Reddit",
-    "category": "Webflow",
-    "memberCount": "52,000+ members",
-    "description": "Vibrant visual development community sharing custom CSS interactions, CMS collection architecture, and high-converting client site designs.",
-    "joinUrl": "https://www.reddit.com/r/Webflow/",
-    "tags": [
-      "webflow",
-      "cms",
-      "visual-dev",
-      "verified"
-    ],
-    "verified": true,
-    "featured": true,
-    "isTodaysPick": false
   },
   {
     "id": "bubble-reddit-hub",
