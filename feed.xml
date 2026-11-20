@@ -4,10 +4,17 @@
     <title>No-Code &amp; AI Automation Agency Hub</title>
     <link>https://no-code-automation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 06:00:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:00:28 GMT</lastBuildDate>
     <atom:link href="https://no-code-automation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/Bubbleio Visual Web Engineers (Reddit)</title>
+      <link>https://www.reddit.com/r/Bubbleio/</link>
+      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#bubble-reddit-hub-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:28 GMT</pubDate>
+      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Dedicated subreddit for Bubble creators mastering relational database schemas, API Connector workflows, and SaaS product launches.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/Webflow Visual Developers (Reddit)</title>
       <link>https://www.reddit.com/r/Webflow/</link>
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#webflow-reddit-hub-2026-11-19</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-reddit-20261022-1-2026-10-22</guid>
       <pubDate>Thu, 22 Oct 2026 06:00:29 GMT</pubDate>
       <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Community for Go programmers covering microservices, concurrency patterns, standard library best practices, and tooling.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Web Developers Network (Telegram)</title>
-      <link>https://t.me/webdev_hub</link>
-      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-telegram-20261021-1-2026-10-21</guid>
-      <pubDate>Wed, 21 Oct 2026 06:00:30 GMT</pubDate>
-      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Public channel providing updates on frontend, backend, browser standards, and dev tooling.</description>
     </item>
   </channel>
 </rss>
