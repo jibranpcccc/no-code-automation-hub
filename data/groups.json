@@ -1,5 +1,24 @@
 [
   {
+    "id": "automation-reddit-hub",
+    "title": "r/automation Systems Engineering",
+    "platform": "Reddit",
+    "category": "Automation",
+    "memberCount": "45,000+ members",
+    "description": "Comprehensive engineering community exploring robotic process automation (RPA), enterprise task orchestration, and workflow efficiency.",
+    "joinUrl": "https://www.reddit.com/r/automation/",
+    "tags": [
+      "automation",
+      "rpa",
+      "workflows",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-21"
+  },
+  {
     "id": "bubble-reddit-hub",
     "title": "r/Bubbleio Visual Web Engineers",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-20"
   },
   {
@@ -956,24 +975,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "id": "automation-reddit-hub",
-    "title": "r/automation Systems Engineering",
-    "platform": "Reddit",
-    "category": "Automation",
-    "memberCount": "45,000+ members",
-    "description": "Comprehensive engineering community exploring robotic process automation (RPA), enterprise task orchestration, and workflow efficiency.",
-    "joinUrl": "https://www.reddit.com/r/automation/",
-    "tags": [
-      "automation",
-      "rpa",
-      "workflows",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "aiagents-reddit-hub",
