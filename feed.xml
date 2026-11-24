@@ -4,10 +4,17 @@
     <title>No-Code &amp; AI Automation Agency Hub</title>
     <link>https://no-code-automation-hub.vercel.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 06:42:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:29:21 GMT</lastBuildDate>
     <atom:link href="https://no-code-automation-hub.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/Airtable Database Engineers (Reddit)</title>
+      <link>https://www.reddit.com/r/Airtable/</link>
+      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#airtable-reddit-hub-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:29:21 GMT</pubDate>
+      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Hub for Airtable power users engineering relational data schemas, interactive interface designer layouts, and JavaScript scripting extensions.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/Notion Workspace Architects (Reddit)</title>
       <link>https://www.reddit.com/r/Notion/</link>
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#notion-reddit-hub-2026-11-23</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-reddit-20261026-1-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 06:44:26 GMT</pubDate>
       <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Discussions on modern C++ (C++17/20/23), memory models, template metaprogramming, and graphics pipelines.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: TypeScript Community Discord (Discord)</title>
-      <link>https://discord.gg/typescript</link>
-      <guid isPermaLink="false">https://no-code-automation-hub.vercel.app/#no-code-automation-hub-discord-20261025-1-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 06:00:30 GMT</pubDate>
-      <description>Newly verified community added to No-Code &amp; AI Automation Agency Hub: Active community for advanced TypeScript types, generics, compiler plugins, and framework integrations.</description>
     </item>
   </channel>
 </rss>
