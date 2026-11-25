@@ -1,5 +1,24 @@
 [
   {
+    "id": "n8n-reddit-hub",
+    "title": "r/n8n Fair-Code Automation",
+    "platform": "Reddit",
+    "category": "n8n Workflows",
+    "memberCount": "14,000+ members",
+    "description": "Official and community discussions on self-hosting n8n via Docker, designing community node modules, and webhook integrations.",
+    "joinUrl": "https://www.reddit.com/r/n8n/",
+    "tags": [
+      "n8n",
+      "fair-code",
+      "self-hosted",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-25"
+  },
+  {
     "id": "airtable-reddit-hub",
     "title": "r/Airtable Database Engineers",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-24"
   },
   {
@@ -1032,24 +1051,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "id": "n8n-reddit-hub",
-    "title": "r/n8n Fair-Code Automation",
-    "platform": "Reddit",
-    "category": "n8n Workflows",
-    "memberCount": "14,000+ members",
-    "description": "Official and community discussions on self-hosting n8n via Docker, designing community node modules, and webhook integrations.",
-    "joinUrl": "https://www.reddit.com/r/n8n/",
-    "tags": [
-      "n8n",
-      "fair-code",
-      "self-hosted",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "integromat-reddit-hub",
