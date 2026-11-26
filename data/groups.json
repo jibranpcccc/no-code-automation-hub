@@ -1,5 +1,24 @@
 [
   {
+    "id": "integromat-reddit-hub",
+    "title": "r/Integromat Make.com Scenario Masters",
+    "platform": "Reddit",
+    "category": "Make.com",
+    "memberCount": "12,500+ members",
+    "description": "Community dedicated to Make (formerly Integromat) scenario optimization, complex iterators, aggregators, and error-handling directives.",
+    "joinUrl": "https://www.reddit.com/r/Integromat/",
+    "tags": [
+      "make.com",
+      "integromat",
+      "scenarios",
+      "verified"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-11-26"
+  },
+  {
     "id": "n8n-reddit-hub",
     "title": "r/n8n Fair-Code Automation",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-11-25"
   },
   {
@@ -1051,24 +1070,6 @@
     "featured": true,
     "isTodaysPick": false,
     "lastUpdated": "2026-09-12"
-  },
-  {
-    "id": "integromat-reddit-hub",
-    "title": "r/Integromat Make.com Scenario Masters",
-    "platform": "Reddit",
-    "category": "Make.com",
-    "memberCount": "12,500+ members",
-    "description": "Community dedicated to Make (formerly Integromat) scenario optimization, complex iterators, aggregators, and error-handling directives.",
-    "joinUrl": "https://www.reddit.com/r/Integromat/",
-    "tags": [
-      "make.com",
-      "integromat",
-      "scenarios",
-      "verified"
-    ],
-    "verified": true,
-    "featured": false,
-    "isTodaysPick": false
   },
   {
     "id": "flutterflow-reddit-hub",
